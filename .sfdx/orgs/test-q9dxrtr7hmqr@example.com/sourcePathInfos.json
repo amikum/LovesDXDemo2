@@ -1,0 +1,296 @@
+[
+    [
+        "/Users/kumaramit/LovesDXDemo2/force-app",
+        {
+            "sourcePath": "/Users/kumaramit/LovesDXDemo2/force-app",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1518460454670,
+            "changeTime": 1518460454670,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/kumaramit/LovesDXDemo2/force-app/main",
+        {
+            "sourcePath": "/Users/kumaramit/LovesDXDemo2/force-app/main",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1518460454670,
+            "changeTime": 1518460454670,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kumaramit/LovesDXDemo2/force-app/main/default",
+        {
+            "sourcePath": "/Users/kumaramit/LovesDXDemo2/force-app/main/default",
+            "isDirectory": true,
+            "size": 224,
+            "modifiedTime": 1518462551385,
+            "changeTime": 1518462551385,
+            "contentHash": "a9e496d44eea627204375b5986ec8c0ca0d44637",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/kumaramit/LovesDXDemo2/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/kumaramit/LovesDXDemo2/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 64,
+            "modifiedTime": 1518460454670,
+            "changeTime": 1518460454670,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kumaramit/LovesDXDemo2",
+        {
+            "sourcePath": "/Users/kumaramit/LovesDXDemo2",
+            "isDirectory": true,
+            "size": 288,
+            "modifiedTime": 1518462027916,
+            "changeTime": 1518462027916,
+            "contentHash": "cc95e3c5bc029bc902605d295c0eabc13ed169de",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/kumaramit/LovesDXDemo2/force-app/main/default/objects/Account/fields/StreetName2__c.field-meta.xml",
+        {
+            "sourcePath": "/Users/kumaramit/LovesDXDemo2/force-app/main/default/objects/Account/fields/StreetName2__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 373,
+            "modifiedTime": 1518462147166,
+            "changeTime": 1518462147166,
+            "contentHash": "de335538d770dc2c05c3627022fc44a5ce021b30",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/kumaramit/LovesDXDemo2/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/kumaramit/LovesDXDemo2/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9711,
+            "modifiedTime": 1518462071467,
+            "changeTime": 1518462071467,
+            "contentHash": "b2099db7f775bf8c50a537fe240dc1c050d9055c",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/kumaramit/LovesDXDemo2/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/kumaramit/LovesDXDemo2/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9711,
+            "modifiedTime": 1518462071473,
+            "changeTime": 1518462071473,
+            "contentHash": "bf0b2b968545179654f497dcc0043767665395e8",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/kumaramit/LovesDXDemo2/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/kumaramit/LovesDXDemo2/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9759,
+            "modifiedTime": 1518462071477,
+            "changeTime": 1518462071477,
+            "contentHash": "1a8f8746471083146f25c20d9d5b874cc25336d2",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/kumaramit/LovesDXDemo2/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/kumaramit/LovesDXDemo2/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9759,
+            "modifiedTime": 1518462071481,
+            "changeTime": 1518462071481,
+            "contentHash": "c1a8c301fdfa144cff027d116045d00c847fd74b",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/kumaramit/LovesDXDemo2/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/kumaramit/LovesDXDemo2/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4599,
+            "modifiedTime": 1518462071483,
+            "changeTime": 1518462071483,
+            "contentHash": "72af6c0bafea4aca3d30790b7c1a91966b20469b",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/kumaramit/LovesDXDemo2/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/kumaramit/LovesDXDemo2/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4935,
+            "modifiedTime": 1518462071489,
+            "changeTime": 1518462071489,
+            "contentHash": "9b3e795ed7632e0f2d77d9bcf89d88a5bea57f21",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/kumaramit/LovesDXDemo2/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "/Users/kumaramit/LovesDXDemo2/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 4595,
+            "modifiedTime": 1518462071493,
+            "changeTime": 1518462071493,
+            "contentHash": "9d54444e81417b97cfecbdb116faa1ff1e7634eb",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/kumaramit/LovesDXDemo2/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "sourcePath": "/Users/kumaramit/LovesDXDemo2/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 17639,
+            "modifiedTime": 1518462071507,
+            "changeTime": 1518462071507,
+            "contentHash": "33b805afa7cb55ad033f01bca16d23e35db7fbdf",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/kumaramit/LovesDXDemo2/force-app/main/default/objects/Account/fields",
+        {
+            "sourcePath": "/Users/kumaramit/LovesDXDemo2/force-app/main/default/objects/Account/fields",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1518462340277,
+            "changeTime": 1518462071461,
+            "contentHash": "bdd41b760d7b37f54b0498ab27f7a9964afe1a4c",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/kumaramit/LovesDXDemo2/force-app/main/default/objects/Account",
+        {
+            "sourcePath": "/Users/kumaramit/LovesDXDemo2/force-app/main/default/objects/Account",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1518462071460,
+            "changeTime": 1518462071460,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/kumaramit/LovesDXDemo2/force-app/main/default/objects",
+        {
+            "sourcePath": "/Users/kumaramit/LovesDXDemo2/force-app/main/default/objects",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1518462071460,
+            "changeTime": 1518462071460,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/kumaramit/LovesDXDemo2/force-app/main/default/layouts",
+        {
+            "sourcePath": "/Users/kumaramit/LovesDXDemo2/force-app/main/default/layouts",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1518462071480,
+            "changeTime": 1518462071480,
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/kumaramit/LovesDXDemo2/force-app/main/default/profiles",
+        {
+            "sourcePath": "/Users/kumaramit/LovesDXDemo2/force-app/main/default/profiles",
+            "isDirectory": true,
+            "size": 192,
+            "modifiedTime": 1518462071507,
+            "changeTime": 1518462071507,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/kumaramit/LovesDXDemo2/force-app/main/default/pages/TestVfPage.page-meta.xml",
+        {
+            "sourcePath": "/Users/kumaramit/LovesDXDemo2/force-app/main/default/pages/TestVfPage.page-meta.xml",
+            "isDirectory": false,
+            "size": 286,
+            "modifiedTime": 1518462551386,
+            "changeTime": 1518462551386,
+            "contentHash": "cac67a9cc30a1e3e2f4360e9ab95998d8adce34f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/kumaramit/LovesDXDemo2/force-app/main/default/pages/TestVfPage.page",
+        {
+            "state": "u",
+            "sourcePath": "/Users/kumaramit/LovesDXDemo2/force-app/main/default/pages/TestVfPage.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 201,
+            "modifiedTime": 1518462670762,
+            "changeTime": 1518462670762,
+            "contentHash": "a8afbd24e5f08d8a98391286f9ff3dd1c46e25ff"
+        }
+    ],
+    [
+        "/Users/kumaramit/LovesDXDemo2/force-app/main/default/pages",
+        {
+            "sourcePath": "/Users/kumaramit/LovesDXDemo2/force-app/main/default/pages",
+            "isDirectory": true,
+            "size": 128,
+            "modifiedTime": 1518462551387,
+            "changeTime": 1518462551387,
+            "contentHash": "bca1a69ae335171cbd0baa42a1a76440c34cde1e",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ]
+]
